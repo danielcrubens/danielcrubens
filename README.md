@@ -10,4 +10,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcrubens&theme=dracula)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcrubens&show_icons=true&theme=dracula)
+
