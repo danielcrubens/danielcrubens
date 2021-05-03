@@ -1,6 +1,6 @@
 ## Hey, welcome to my profile!👋🏾
-📍 From Sorocaba, Brazil
-💻Front-end Developer at  [Cadmus](https://www.cadmus.com.br/)
+- 📍 From Sorocaba, Brazil
+- 💻Front-end Developer at  [Cadmus](https://www.cadmus.com.br/)
 
 
 
