@@ -8,8 +8,10 @@
 
 <div align="center">
 <a href="https://github.com/danielcrubens">
- <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcrubens&layout=compact&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielcrubens&show_icons=true&theme=dracula&layout=compact"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielcrubens&layout=compact&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielcrubens&show_icons=true&theme=dracula&layout=compact"/>
+ 
+
    
 
 </div>
